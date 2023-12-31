@@ -1,0 +1,4 @@
+[submodule "personalsite/public"]
+	path = personalsite/public
+	url = https://github.com/srinivas93/prodsite.git
+	branch = main
