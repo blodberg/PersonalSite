@@ -2,3 +2,6 @@
 	path = personalsite/public
 	url = git@github.com:/srinivas93/prodsite.git
 	branch = main
+[submodule "personalsite/prodsite"]
+	path = personalsite/prodsite
+	url = https://github.com/blodberg/prodsite
