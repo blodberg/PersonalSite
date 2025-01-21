@@ -63,7 +63,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Aspiring Nomad 🌎"
+  homeSubtitle = "Influencing myself all the time"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -119,7 +119,7 @@ disableHugoGeneratorInject = false
 
     topText = ["<a rel=\"me\" href=\"https://mas.to/@siyer\"></a>"]
     bottomText = [
-      "Powered by <a href=\"https://sitejs.org\">Site.js</a>" 
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>"      
     ]
 
   # Colors for favicons
@@ -187,7 +187,7 @@ disableHugoGeneratorInject = false
     name       = "About"
     url        = "about/"
       [[menu.main]]
-    identifier = "Posts"
+    identifier = "posts"
     name       = "Posts"
     url        = "posts/"
 
