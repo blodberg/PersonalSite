@@ -6,11 +6,12 @@ aliases = ["archive"]
   name = "Srinivas Iyer"
 +++
 
-*Disclaimer:* The links on this page are NOT affiliate links. I do not make any money if you end up buying any of these products. This is just a list of things that I have purchase over the years and have been really useful to me while travelling. 
+*Disclaimer:* The links on this page are NOT affiliate links. I do not make any money if you end up buying any of these products. This is just a list of things that I have purchased over the years and have been really useful to me while travelling. 
 
-| Name    | Link   | Price   |
+| Name    | Category   | Description  |
 | ------- | ------------ | ------- |
-| *Osprey Nebula Backpack* | **New York** | $80 |
+| [Cotopaxi Alpa 42L](https://www.rei.com/product/236949/cotopaxi-allpa-42-l-travel-pack) | Backpack |  |
+| [Aer Sling 3 X-Pac](https://aersf.com/collections/slings/products/day-sling-3-x-pac?country=US) | DayPack |  |
 
 
 
